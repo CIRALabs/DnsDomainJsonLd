@@ -1,8 +1,8 @@
 {
     "@context": {
         "@protected": true,
-        "dnsDomain": {
-            "@id": "https://www.ietf.org/archive/id/draft-carter-high-assurance-dids-with-dns-04.html#section-3.2.1",
+        "dnsValidationDomain": {
+            "@id": "https://www.ietf.org/archive/id/draft-carter-high-assurance-dids-with-dns-05.html#dnsvalidationdomain",
             "@type": "@id"
         }
     }
